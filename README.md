@@ -12,9 +12,6 @@ WildGuard is a prototype IoT solution designed to monitor and detect forest fire
 ## Architecture
 ![Architecture Diagram](diagram.png)
 
-## Prototype
-![Dashboard Screenshot](dashboard.png)
-
 ## Future Scope
 - TinyML-powered risk prediction
 - Large-scale deployment with 100+ nodes
